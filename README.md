@@ -1,4 +1,4 @@
-# Diploma 2nd Year - All Codes and Microprojects
+﻿# Diploma 2nd Year - All Codes and Microprojects
 
 A comprehensive collection of projects, assignments, and code examples from my diploma studies.
 
@@ -97,3 +97,8 @@ These applications are created for educational purposes only. Feel free to use t
 ## License
 
 MIT
+
+## ☕ Support
+
+If you find this project helpful, consider [supporting me](https://ompradippatil.netlify.app/donate).
+
