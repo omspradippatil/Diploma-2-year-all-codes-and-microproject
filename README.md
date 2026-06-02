@@ -1,4 +1,4 @@
-﻿# Diploma 2nd Year - All Codes and Microprojects
+# Diploma 2nd Year - All Codes and Microprojects
 
 A comprehensive collection of projects, assignments, and code examples from my diploma studies.
 
@@ -98,7 +98,17 @@ These applications are created for educational purposes only. Feel free to use t
 
 MIT
 
-## ☕ Support
+##  Support
 
 If you find this project helpful, consider [supporting me](https://ompradippatil.netlify.app/donate).
 
+---
+
+##  Contact the Developer
+
+**Developed by OM Patil**
+
+- **Portfolio**: [ompradippatil.netlify.app](https://ompradippatil.netlify.app/)
+- **GitHub**: [@omspradippatil](https://github.com/omspradippatil)
+- **LinkedIn**: [OM Pradip Patil](https://in.linkedin.com/in/om-pradip-patil)
+- **Email**: [omspradippatil@gmail.com](mailto:omspradippatil@gmail.com)
